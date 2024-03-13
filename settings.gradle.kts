@@ -22,3 +22,4 @@ dependencyResolutionManagement {
 rootProject.name = "Android lessons"
 include(":app")
 include(":p0031firstproject")
+include(":p0041basicviews")
