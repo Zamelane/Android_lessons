@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunksources=self.webpackChunksources||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/android_lessons/blog","blogTitle":"Blog"}')}}]);

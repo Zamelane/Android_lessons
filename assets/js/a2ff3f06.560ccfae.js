@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunksources=self.webpackChunksources||[]).push([[7359],{3453:e=>{e.exports=JSON.parse('{"metadata":{"permalink":"/Android_lessons/blog","page":1,"postsPerPage":10,"totalPages":1,"totalCount":4,"blogDescription":"Blog","blogTitle":"Blog"}}')}}]);
